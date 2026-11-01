@@ -1,6 +1,6 @@
 # Refyl Android: design
 
-Date: 2026-11-01. Status: approved by the user on 2026-11-01 ("vai in native": Google Maps, the native Android map, accepting the Maps SDK data-safety disclosure).
+Date: 2026-11-01. Status: approved by the user on 2026-11-01 ("vai in native": go ahead, implemented natively in this session). Map: Google Maps, the user's earlier choice; the Data safety disclosure in §2 is the consequence, to be confirmed with the user at release.
 
 ## 1. Intent
 
